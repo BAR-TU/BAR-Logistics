@@ -1,16 +1,13 @@
 package com.bar.BARLogistics.controllers;
 
-import com.bar.BARLogistics.entities.Capitals;
 import com.bar.BARLogistics.entities.Parts;
 import com.bar.BARLogistics.entities.PartsLocations;
-import com.bar.BARLogistics.models.User;
 import com.bar.BARLogistics.entities.Pictures;
 import com.bar.BARLogistics.repositories.PartsLocationsRepository;
 import com.bar.BARLogistics.repositories.PartsRepository;
 import com.bar.BARLogistics.repositories.UserRepository;
 import com.bar.BARLogistics.repositories.PicturesRepository;
 import com.bar.BARLogistics.repositories.VehicleInventoryRepository;
-import org.springframework.context.annotation.Bean;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
@@ -19,9 +16,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
-
-import javax.persistence.Lob;
-import javax.servlet.MultipartConfigElement;
 import java.io.IOException;
 import java.math.BigInteger;
 import java.util.*;

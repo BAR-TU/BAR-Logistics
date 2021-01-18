@@ -28,33 +28,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88202258-9298-432e-a0f8-efc55cca0a20" name="Default Changelist" comment="Merge branch 'master' of https://github.com/BAR-TU/BAR-Logistics&#10;&#10;# Conflicts:&#10;#&#9;bar-logistics-ui/src/views/EditParts.vue">
-      <change afterPath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/payload/request/EditProfileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/1-ff407eb5cf-d657a71a-8e47-48cb-bd7f-c1b9df8d5b72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/1114526_x600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/Battery.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/src/models/editUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/EditProfile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/Bosch_M5_ABS_Kit_1200x1200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/DieselV8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/Emergency brake Hydraulic.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/EngineBlock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/Exhaust system - Titanium.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/Frontal-airbags.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/PetrolV8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/automobile-car-clutch-set-500x500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/download (1).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/download (2).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/download (3).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/rBVaJFklOm6AIYtHAAeKFadmQw4472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/zf-8-speed-trans-1538511984.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAR-Logistics-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BAR-Logistics-backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/OrdersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/OrdersController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/PartsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/PartsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/repositories/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/additional/PartsPictures/images.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/services/auth.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/services/auth.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/services/orders-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/services/orders-service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/services/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/services/user.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/store/auth.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/store/auth.module.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/AdminEditPartDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/AdminEditPartDetails.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/BoardAdmin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/BoardAdmin.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/BoardUser.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/BoardUser.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/EditParts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/EditParts.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/Orders.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/Orders.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/OrdersDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/OrdersDetails.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/PartDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/PartDetails.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/Profile.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/Register.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,6 +196,7 @@
       <workItem from="1610881203467" duration="1233000" />
       <workItem from="1610906180417" duration="6626000" />
       <workItem from="1610928365795" duration="684000" />
+      <workItem from="1610953993927" duration="10514000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/BAR-TU/BAR-Logistics&#10;&#10;# Conflicts:&#10;#&#9;bar-logistics-ui/src/views/EditParts.vue">
       <created>1610911423745</created>
@@ -239,11 +231,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/bar-logistics-ui/src/views/Parts.vue</url>
-          <line>6</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/BAR-Logistics-backend/src/main/java/com/bar/BARLogistics/controllers/UserController.java</url>
           <line>29</line>
