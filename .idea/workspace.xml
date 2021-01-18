@@ -27,10 +27,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88202258-9298-432e-a0f8-efc55cca0a20" name="Default Changelist" comment="Merge branch 'master' of https://github.com/BAR-TU/BAR-Logistics&#10;&#10;# Conflicts:&#10;#&#9;bar-logistics-ui/src/views/EditParts.vue">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar-logistics-ui/src/views/AdminEditPartDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bar-logistics-ui/src/views/AdminEditPartDetails.vue" afterDir="false" />
-    </list>
+    <list default="true" id="88202258-9298-432e-a0f8-efc55cca0a20" name="Default Changelist" comment="Merge branch 'master' of https://github.com/BAR-TU/BAR-Logistics&#10;&#10;# Conflicts:&#10;#&#9;bar-logistics-ui/src/views/EditParts.vue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +177,7 @@
       <workItem from="1610881203467" duration="1233000" />
       <workItem from="1610906180417" duration="6626000" />
       <workItem from="1610928365795" duration="684000" />
-      <workItem from="1610954311515" duration="5615000" />
+      <workItem from="1610954311515" duration="6147000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/BAR-TU/BAR-Logistics&#10;&#10;# Conflicts:&#10;#&#9;bar-logistics-ui/src/views/EditParts.vue">
       <created>1610911423745</created>
