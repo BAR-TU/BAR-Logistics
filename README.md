@@ -1,0 +1,2 @@
+# BAR-Logistics
+BAR Logistics is a single page RESTful application developed with the help of different technologies like Spring MVC, Spring Boot, Spring Data JPA, Vue.js for front-end, Hibernate for ORM and PostgreSQL for a database. The project is imitation of a fully functioning site for car parts sales and logistics with different types of users. In the project it is also used JWT to authenticate and authorize the users.
